@@ -1,0 +1,6 @@
+{
+  "appId": "id.kuisceria.anak",
+  "appName": "Kuis Ceria Anak",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

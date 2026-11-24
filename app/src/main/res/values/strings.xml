@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Kuis Ceria Anak</string>
+    <string name="welcome_subtitle">Ayo belajar sambil bermain!</string>
+    <string name="daily_challenge_title">Tantangan Seru Hari Ini</string>
+    <string name="daily_challenge_desc">Jawab 8 pertanyaan acak dari semua topik dan kumpulkan bintang emas!</string>
+    <string name="start_daily_quiz">Mulai Petualangan</string>
+    <string name="choose_category">Pilih Kategori Kuis</string>
+    <string name="questions_count_format">%1$d Soal</string>
+    <string name="settings_title">Pengaturan</string>
+    <string name="sound_effects_label">Efek Suara Ceria</string>
+    <string name="sound_effects_desc">Bunyi lonceng saat menjawab soal</string>
+    <string name="music_theme_label">Musik Tema Anak-anak</string>
+    <string name="music_theme_desc">Melodi latar ceria selama bermain kuis</string>
+    <string name="auto_tts_label">Bacakan Soal Otomatis</string>
+    <string name="auto_tts_desc">Suara asisten membacakan setiap pertanyaan</string>
+    <string name="age_level_label">Tingkat Kesulitan</string>
+    <string name="mascot_label">Pilih Teman Belajar</string>
+    <string name="read_aloud">Bacakan</string>
+    <string name="stop_reading">Berhenti</string>
+    <string name="next_question">Lanjut</string>
+    <string name="see_results">Lihat Hasil</string>
+    <string name="play_again">Main Lagi</string>
+    <string name="back_to_home">Pilih Kategori Lain</string>
+    <string name="exit_quiz_title">Keluar dari Kuis?</string>
+    <string name="exit_quiz_message">Progres kuis saat ini akan diulang jika kamu keluar sekarang.</string>
+    <string name="stay_in_quiz">Lanjut Main</string>
+    <string name="leave_quiz">Keluar</string>
+    <string name="fun_fact_title">Tahukah Kamu?</string>
+    <string name="correct_cheer">Hebat! Jawabanmu Benar!</string>
+    <string name="wrong_cheer">Hampir Tepat! Yuk Lihat Jawabannya</string>
+    <string name="review_answers_title">Ulasan Jawaban</string>
+    <string name="about_app_title">Tentang Aplikasi</string>
+    <string name="about_app_desc">Kuis Ceria Anak v1.0 — Bank soal kini tersimpan dalam format file JSON &amp; mendukung impor/ekspor file.</string>
+    <string name="close">Tutup</string>
+
+    <string name="file_bank_title">Ubah &amp; Kelola File Soal</string>
+    <string name="file_bank_desc">Simpan seluruh bank soal menjadi file (.json / .csv) atau muat soal baru dari perangkatmu.</string>
+    <string name="active_questions_badge">%1$d Soal Aktif</string>
+    <string name="export_json_button">Ekspor JSON</string>
+    <string name="export_csv_button">Ekspor CSV</string>
+    <string name="import_file_button">Impor File Soal</string>
+    <string name="reset_bundled_button">Pulihkan Bawaan</string>
+    <string name="import_dialog_title">Impor File Soal</string>
+    <string name="import_dialog_message">Ditemukan %1$d soal valid di dalam file. Pilih cara memuatnya:</string>
+    <string name="import_merge_button">Tambahkan</string>
+    <string name="import_replace_button">Ganti Semua</string>
+    <string name="cancel">Batal</string>
+
+    <string name="export_result_title">Ubah Hasil Menjadi File</string>
+    <string name="export_result_desc">Simpan rapor kuis sebagai dokumen PDF, file teks, atau JSON untuk dibagikan.</string>
+    <string name="save_pdf_button">Simpan PDF</string>
+    <string name="save_txt_button">Simpan TXT</string>
+    <string name="save_json_button">Simpan JSON</string>
+    <string name="share_pdf_button">Bagikan File PDF</string>
+</resources>

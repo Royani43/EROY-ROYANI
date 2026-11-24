@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kuis Ceria Anak",
+  "description": "Aplikasi kuis interaktif edukatif dan menyenangkan untuk anak-anak Indonesia dengan beragam kategori seru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "version": 1,
+  "app": "Kuis Ceria Anak",
+  "questions": [
+    {
+      "id": 1,
+      "category": "ANIMALS",
+      "difficulty": "EASY",
+      "prompt": "Hewan mana yang memiliki belalai panjang untuk minum dan mengambil makanan?",
+      "emojiCue": "🐘",
+      "options": ["Gajah", "Jerapah", "Kuda Nil", "Singa"],
+      "correctIndex": 0,
+      "funFact": "Belalai gajah memiliki lebih dari 40.000 otot sehingga bisa mengangkat barang berat sekaligus memetik daun kecil!"
+    },
+    {
+      "id": 2,
+      "category": "ANIMALS",
+      "difficulty": "EASY",
+      "prompt": "Suara hewan apakah yang berbunyi 'Meong' dan suka mengejar benang wol?",
+      "emojiCue": "🐱",
+      "options": ["Anjing", "Kucing", "Bebek", "Sapi"],
+      "correctIndex": 1,
+      "funFact": "Kucing menggunakan kumisnya yang sensitif untuk mengukur lebar celah sebelum masuk ke dalamnya."
+    },
+    {
+      "id": 3,
+      "category": "ANIMALS",
+      "difficulty": "EASY",
+      "prompt": "Hewan laut manakah yang memiliki delapan lengan dan bisa menyemprotkan tinta?",
+      "emojiCue": "🐙",
+      "options": ["Lumba-lumba", "Gurita", "Penyu", "Kuda Laut"],
+      "correctIndex": 1,
+      "funFact": "Gurita sangat pintar dan memiliki tiga jantung serta darah yang berwarna biru!"
+    },
+    {
+      "id": 4,
+      "category": "ANIMALS",
+      "difficulty": "EASY",
+      "prompt": "Burung manakah yang aktif terbang di malam hari dan matanya besar?",
+      "emojiCue": "🦉",
+      "options": ["Burung Hantu", "Ayam", "Merpati", "Flamingo"],
+      "correctIndex": 0,
+      "funFact": "Burung hantu bisa memutar kepalanya hampir 270 derajat untuk melihat ke sekeliling!"
+    },
+    {
+      "id": 5,
+      "category": "ANIMALS",
+      "difficulty": "EASY",
+      "prompt": "Hewan apakah yang membawa cangkang keras di punggungnya sebagai rumah?",
+      "emojiCue": "🐢",
+      "options": ["Katak", "Kura-kura", "Kelinci", "Tupai"],
+      "correctIndex": 1,
+      "funFact": "Tempurung kura-kura tersambung dengan tulang rusuknya sehingga tidak bisa dilepas."
+    },
+    {
+      "id": 6,
+      "category": "ANIMALS",
+      "difficulty": "CHALLENGING",
+      "prompt": "Hewan darat manakah yang bisa berlari paling cepat di dunia?",
+      "emojiCue": "🐆",
+      "options": ["Cheetah", "Kangguru", "Rusa", "Zebra"],
+      "correctIndex": 0,
+      "funFact": "Cheetah dapat berlari hingga kecepatan 110 km/jam hanya dalam beberapa detik!"
+    },
+    {
+      "id": 7,
+      "category": "ANIMALS",
+      "difficulty": "CHALLENGING",
+      "prompt": "Mamalia laut besar apakah yang bernapas dengan paru-paru dan bernyanyi di dalam laut?",
+      "emojiCue": "🐋",
+      "options": ["Hiu Putih", "Paus Bungkuk", "Ikan Pari", "Ubur-ubur"],
+      "correctIndex": 1,
+      "funFact": "Paus bukan ikan melainkan mamalia, sehingga ia harus muncul ke permukaan laut untuk menghirup udara."
+    },
+    {
+      "id": 8,
+      "category": "ANIMALS",
+      "difficulty": "CHALLENGING",
+      "prompt": "Serangga manakah yang mengalami metamorfosis sempurna dari ulat menjadi kepompong?",
+      "emojiCue": "🦋",
+      "options": ["Belalang", "Kupu-kupu", "Jangkrik", "Capung"],
+      "correctIndex": 1,
+      "funFact": "Kupu-kupu mencicipi rasa nektar bunga menggunakan sensor di kakinya!"
+    },
+    {
+      "id": 9,
+      "category": "ANIMALS",
+      "difficulty": "CHALLENGING",
+      "prompt": "Kadal purba raksasa asli Indonesia yang hidup di Nusa Tenggara Timur adalah...",
+      "emojiCue": "🦎",
+      "options": ["Iguana", "Komodo", "Bunglon", "Tokek"],
+      "correctIndex": 1,
+      "funFact": "Komodo adalah kadal terbesar di dunia yang hanya hidup alami di Pulau Komodo dan sekitarnya."
+    },
+    {
+      "id": 10,
+      "category": "ANIMALS",
+      "difficulty": "CHALLENGING",
+      "prompt": "Lebah mengumpulkan nektar bunga untuk membuat cairan manis yang disebut...",
+      "emojiCue": "🐝",
+      "options": ["Sirup", "Madu", "Susu", "Getah"],
+      "correctIndex": 1,
+      "funFact": "Untuk membuat satu sendok makan madu, lebah harus mengunjungi ribuan bunga!"
+    },
+    {
+      "id": 11,
+      "category": "MATH",
+      "difficulty": "EASY",
+      "prompt": "Rara punya 3 apel merah dan mendapat 4 apel lagi. Berapa jumlah semua apel Rara?",
+      "emojiCue": "🍎",
+      "options": ["6 apel", "7 apel", "8 apel", "5 apel"],
+      "correctIndex": 1,
+      "funFact": "3 ditambah 4 sama dengan 7. Menghitung dengan jari membantu kita belajar penjumlahan!"
+    },
+    {
+      "id": 12,
+      "category": "MATH",
+      "difficulty": "EASY",
+      "prompt": "Ada 9 balon warna-warni, lalu 2 balon terbang ke langit. Berapa balon yang tersisa?",
+      "emojiCue": "🎈",
+      "options": ["6 balon", "7 balon", "8 balon", "5 balon"],
+      "correctIndex": 1,
+      "funFact": "9 dikurangi 2 sama dengan 7. Pengurangan berarti menghitung sisa setelah sebagian diambil."
+    },
+    {
+      "id": 13,
+      "category": "MATH",
+      "difficulty": "EASY",
+      "prompt": "Berapakah hasil dari 5 + 5?",
+      "emojiCue": "🖐️",
+      "options": ["8", "9", "10", "12"],
+      "correctIndex": 2,
+      "funFact": "Dua tangan kita masing-masing punya 5 jari. Jika digabungkan semuanya ada 10 jari!"
+    },
+    {
+      "id": 14,
+      "category": "MATH",
+      "difficulty": "EASY",
+      "prompt": "Angka berapakah yang datang tepat setelah angka 14?",
+      "emojiCue": "🔢",
+      "options": ["13", "15", "16", "12"],
+      "correctIndex": 1,
+      "funFact": "Urutan hitung maju setelah 14 adalah 15, lalu 16, 17, dan seterusnya!"
+    },
+    {
+      "id": 15,
+      "category": "MATH",
+      "difficulty": "EASY",
+      "prompt": "Jika satu mobil mainan punya 4 roda, berapa roda yang dimiliki 2 mobil mainan?",
+      "emojiCue": "🚗",
+      "options": ["6 roda", "8 roda", "10 roda", "4 roda"],
+      "correctIndex": 1,
+      "funFact": "4 + 4 = 8 roda! Penjumlahan berulang adalah dasar dari perkalian."
+    },
+    {
+      "id": 16,
+      "category": "MATH",
+      "difficulty": "CHALLENGING",
+      "prompt": "Berapakah hasil dari 3 x 6?",
+      "emojiCue": "✖️",
+      "options": ["15", "18", "21", "12"],
+      "correctIndex": 1,
+      "funFact": "3 x 6 artinya 6 + 6 + 6, yang hasilnya adalah 18!"
+    },
+    {
+      "id": 17,
+      "category": "MATH",
+      "difficulty": "CHALLENGING",
+      "prompt": "Bibo punya 24 permen yang ingin dibagikan rata kepada 4 temannya. Berapa permen per anak?",
+      "emojiCue": "🍬",
+      "options": ["5 permen", "6 permen", "7 permen", "8 permen"],
+      "correctIndex": 1,
+      "funFact": "24 dibagi 4 sama dengan 6, karena 4 x 6 = 24!"
+    },
+    {
+      "id": 18,
+      "category": "MATH",
+      "difficulty": "CHALLENGING",
+      "prompt": "Berapakah hasil dari 45 - 17?",
+      "emojiCue": "➖",
+      "options": ["28", "32", "27", "38"],
+      "correctIndex": 0,
+      "funFact": "45 - 10 = 35, lalu 35 - 7 = 28. Memecah angka puluhan dan satuan bikin berhitung lebih cepat!"
+    },
+    {
+      "id": 19,
+      "category": "MATH",
+      "difficulty": "CHALLENGING",
+      "prompt": "Dalam 1 jam ada berapa menit?",
+      "emojiCue": "⏰",
+      "options": ["30 menit", "60 menit", "90 menit", "100 menit"],
+      "correctIndex": 1,
+      "funFact": "Jarum panjang jam berputar satu lingkaran penuh sebanyak 60 menit untuk menyelesaikan 1 jam."
+    },
+    {
+      "id": 20,
+      "category": "MATH",
+      "difficulty": "CHALLENGING",
+      "prompt": "Pola angka berikutnya: 5, 10, 15, 20, ... Angka apakah yang hilang?",
+      "emojiCue": "🎯",
+      "options": ["22", "25", "30", "24"],
+      "correctIndex": 1,
+      "funFact": "Ini adalah pola lompat 5! Setiap langkah bertambah 5 sehingga setelah 20 adalah 25."
+    },
+    {
+      "id": 21,
+      "category": "SCIENCE",
+      "difficulty": "EASY",
+      "prompt": "Benda langit apakah yang memberi cahaya hangat di siang hari?",
+      "emojiCue": "☀️",
+      "options": ["Bulan", "Matahari", "Komet", "Awan"],
+      "correctIndex": 1,
+      "funFact": "Matahari adalah bintang raksasa terdekat dari Bumi yang membuat tumbuhan bisa tumbuh subur!"
+    },
+    {
+      "id": 22,
+      "category": "SCIENCE",
+      "difficulty": "EASY",
+      "prompt": "Apa yang kita butuhkan dari udara agar paru-paru kita bisa bernapas?",
+      "emojiCue": "🌬️",
+      "options": ["Oksigen", "Asap", "Pasir", "Garam"],
+      "correctIndex": 0,
+      "funFact": "Pohon dan tumbuhan hijau menghasilkan oksigen segar yang kita hirup setiap hari."
+    },
+    {
+      "id": 23,
+      "category": "SCIENCE",
+      "difficulty": "EASY",
+      "prompt": "Saat air dipanaskan hingga mendidih, air berubah menjadi...",
+      "emojiCue": "💨",
+      "options": ["Es batu", "Uap air", "Salju", "Batu"],
+      "correctIndex": 1,
+      "funFact": "Air punya tiga wujud: padat (es), cair (air minum), dan gas (uap air)."
+    },
+    {
+      "id": 24,
+      "category": "SCIENCE",
+      "difficulty": "EASY",
+      "prompt": "Bagian tumbuhan yang menyerap air dan mineral dari dalam tanah adalah...",
+      "emojiCue": "🌱",
+      "options": ["Bunga", "Akar", "Buah", "Biji"],
+      "correctIndex": 1,
+      "funFact": "Akar bekerja seperti sedotan alami yang kuat sekaligus menjaga pohon tetap berdiri kokoh."
+    },
+    {
+      "id": 25,
+      "category": "SCIENCE",
+      "difficulty": "EASY",
+      "prompt": "Setelah hujan reda dan matahari bersinar, sering muncul lengkungan warna-warni bernama...",
+      "emojiCue": "🌈",
+      "options": ["Pelangi", "Petir", "Kabut", "Badai"],
+      "correctIndex": 0,
+      "funFact": "Pelangi muncul ketika cahaya matahari memantul dan terurai melewati tetesan air hujan!"
+    },
+    {
+      "id": 26,
+      "category": "SCIENCE",
+      "difficulty": "CHALLENGING",
+      "prompt": "Planet manakah di tata surya kita yang terkenal memiliki cincin indah besar?",
+      "emojiCue": "🪐",
+      "options": ["Mars", "Saturnus", "Merkurius", "Venus"],
+      "correctIndex": 1,
+      "funFact": "Cincin Saturnus terbuat dari miliaran bongkahan es, debu, dan batu yang mengorbit planet!"
+    },
+    {
+      "id": 27,
+      "category": "SCIENCE",
+      "difficulty": "CHALLENGING",
+      "prompt": "Gaya apakah yang membuat bola jatuh kembali ke bawah saat kita lempar ke atas?",
+      "emojiCue": "🌍",
+      "options": ["Gaya Magnet", "Gaya Gravitasi", "Gaya Gesek", "Gaya Listrik"],
+      "correctIndex": 1,
+      "funFact": "Gravitasi Bumi menarik semua benda ke arah pusat Bumi agar kita tidak melayang di udara."
+    },
+    {
+      "id": 28,
+      "category": "SCIENCE",
+      "difficulty": "CHALLENGING",
+      "prompt": "Planet yang dijuluki 'Planet Merah' karena tanahnya kaya zat besi berkarat adalah...",
+      "emojiCue": "🔴",
+      "options": ["Jupiter", "Mars", "Neptunus", "Uranus"],
+      "correctIndex": 1,
+      "funFact": "Para ilmuwan sudah mengirim robot penjelajah seperti Perseverance untuk meneliti permukaan Mars!"
+    },
+    {
+      "id": 29,
+      "category": "SCIENCE",
+      "difficulty": "CHALLENGING",
+      "prompt": "Proses tumbuhan hijau membuat makanannya sendiri dengan bantuan sinar matahari disebut...",
+      "emojiCue": "🌿",
+      "options": ["Fotosintesis", "Evaporasi", "Migrasi", "Hibernasi"],
+      "correctIndex": 0,
+      "funFact": "Daun berwarna hijau karena mengandung klorofil yang menangkap cahaya matahari untuk fotosintesis."
+    },
+    {
+      "id": 30,
+      "category": "SCIENCE",
+      "difficulty": "CHALLENGING",
+      "prompt": "Alat yang digunakan untuk melihat benda-benda luar angkasa yang sangat jauh adalah...",
+      "emojiCue": "🔭",
+      "options": ["Mikroskop", "Teleskop", "Termometer", "Kompas"],
+      "correctIndex": 1,
+      "funFact": "Dengan teleskop, kita bisa melihat kawah Bulan dan cincin Saturnus dengan lebih jelas!"
+    },
+    {
+      "id": 31,
+      "category": "COLORS_SHAPES",
+      "difficulty": "EASY",
+      "prompt": "Jika cat warna MERAH dicampur dengan KUNING, warna apa yang akan muncul?",
+      "emojiCue": "🎨",
+      "options": ["Ungu", "Oranye", "Hijau", "Biru"],
+      "correctIndex": 1,
+      "funFact": "Merah + Kuning = Oranye! Merah, kuning, dan biru disebut warna primer."
+    },
+    {
+      "id": 32,
+      "category": "COLORS_SHAPES",
+      "difficulty": "EASY",
+      "prompt": "Bentuk bangun datar apakah yang tidak memiliki sudut sama sekali seperti roda?",
+      "emojiCue": "⭕",
+      "options": ["Segitiga", "Persegi", "Lingkaran", "Trapesium"],
+      "correctIndex": 2,
+      "funFact": "Lingkaran memiliki sisi lengkung yang menyatu sempurna sehingga bisa menggelinding lancar!"
+    },
+    {
+      "id": 33,
+      "category": "COLORS_SHAPES",
+      "difficulty": "EASY",
+      "prompt": "Berapakah jumlah sisi dan sudut yang dimiliki oleh sebuah Segitiga?",
+      "emojiCue": "🔺",
+      "options": ["2 sisi", "3 sisi", "4 sisi", "5 sisi"],
+      "correctIndex": 1,
+      "funFact": "Sesuai namanya, segi-tiga selalu mempunyai 3 sisi lurus dan 3 titik sudut!"
+    },
+    {
+      "id": 34,
+      "category": "COLORS_SHAPES",
+      "difficulty": "EASY",
+      "prompt": "Jika cat BIRU dicampur dengan KUNING, warna segar apakah yang tercipta?",
+      "emojiCue": "💚",
+      "options": ["Hijau", "Cokelat", "Merah Muda", "Abu-abu"],
+      "correctIndex": 0,
+      "funFact": "Biru + Kuning menghasilkan warna Hijau seperti warna daun dan rumput di taman!"
+    },
+    {
+      "id": 35,
+      "category": "COLORS_SHAPES",
+      "difficulty": "EASY",
+      "prompt": "Lampu lalu lintas yang berwarna HIJAU memberi tanda kepada kendaraan untuk...",
+      "emojiCue": "🚦",
+      "options": ["Berhenti", "Bersiap", "Jalan Terus", "Putar Balik"],
+      "correctIndex": 2,
+      "funFact": "Merah berarti berhenti, kuning berarti bersiap-hati-hati, dan hijau berarti jalan!"
+    },
+    {
+      "id": 36,
+      "category": "COLORS_SHAPES",
+      "difficulty": "CHALLENGING",
+      "prompt": "Bangun ruang berbentuk kotak yang memiliki 6 sisi persegi sama besar seperti dadu disebut...",
+      "emojiCue": "🎲",
+      "options": ["Bola", "Kubus", "Kerucut", "Tabung"],
+      "correctIndex": 1,
+      "funFact": "Kubus memiliki 6 sisi persegi yang sama luas, 12 rusuk, dan 8 titik sudut."
+    },
+    {
+      "id": 37,
+      "category": "COLORS_SHAPES",
+      "difficulty": "CHALLENGING",
+      "prompt": "Bentuk apakah yang paling mirip dengan topi ulang tahun atau cone es krim?",
+      "emojiCue": "🥳",
+      "options": ["Kerucut", "Prisma", "Balok", "Lingkaran"],
+      "correctIndex": 0,
+      "funFact": "Kerucut memiliki alas berbentuk lingkaran dan ujung atas yang runcing!"
+    },
+    {
+      "id": 38,
+      "category": "COLORS_SHAPES",
+      "difficulty": "CHALLENGING",
+      "prompt": "Ada berapa warna utama pada pelangi menurut urutan ME-JI-KU-HI-BI-NI-U?",
+      "emojiCue": "🌈",
+      "options": ["5 warna", "6 warna", "7 warna", "8 warna"],
+      "correctIndex": 2,
+      "funFact": "7 warna pelangi adalah Merah, Jingga, Kuning, Hijau, Biru, Nila, dan Ungu!"
+    },
+    {
+      "id": 39,
+      "category": "COLORS_SHAPES",
+      "difficulty": "CHALLENGING",
+      "prompt": "Bangun datar yang memiliki 5 sisi sama panjang seperti simbol bintang atau rumah kecil adalah...",
+      "emojiCue": "⬠",
+      "options": ["Segi Empat", "Segi Lima (Pentagon)", "Segi Enam", "Segi Delapan"],
+      "correctIndex": 1,
+      "funFact": "Pentagon adalah bangun segi lima. Sarang lebah madu berbentuk heksagon atau segi enam!"
+    },
+    {
+      "id": 40,
+      "category": "COLORS_SHAPES",
+      "difficulty": "CHALLENGING",
+      "prompt": "Campuran warna MERAH dan BIRU akan menghasilkan warna yang mana?",
+      "emojiCue": "🍇",
+      "options": ["Ungu", "Kuning", "Hijau", "Putih"],
+      "correctIndex": 0,
+      "funFact": "Merah + Biru = Ungu! Warna ungu sering terlihat pada buah anggur dan bunga lavender."
+    },
+    {
+      "id": 41,
+      "category": "FRUITS_VEGGIES",
+      "difficulty": "EASY",
+      "prompt": "Sayuran berwarna oranye yang tumbuh di dalam tanah dan sangat baik untuk mata adalah...",
+      "emojiCue": "🥕",
+      "options": ["Bayam", "Wortel", "Mentimun", "Kubis"],
+      "correctIndex": 1,
+      "funFact": "Wortel kaya akan vitamin A dan beta-karoten yang membantu mata melihat lebih jernih!"
+    },
+    {
+      "id": 42,
+      "category": "FRUITS_VEGGIES",
+      "difficulty": "EASY",
+      "prompt": "Buah tropis berkulit kuning melengkung yang menjadi favorit monyet adalah...",
+      "emojiCue": "🍌",
+      "options": ["Pisang", "Semangka", "Stroberi", "Anggur"],
+      "correctIndex": 0,
+      "funFact": "Pisang mengandung kalium yang memberi energi cepat untuk berlari dan bermain!"
+    },
+    {
+      "id": 43,
+      "category": "FRUITS_VEGGIES",
+      "difficulty": "EASY",
+      "prompt": "Buah besar berkulit hijau bergaris yang bagian dalamnya merah berair dan manis adalah...",
+      "emojiCue": "🍉",
+      "options": ["Melon", "Semangka", "Alpukat", "Nanas"],
+      "correctIndex": 1,
+      "funFact": "Lebih dari 90% isi semangka adalah air, jadi sangat menyegarkan saat cuaca panas!"
+    },
+    {
+      "id": 44,
+      "category": "FRUITS_VEGGIES",
+      "difficulty": "EASY",
+      "prompt": "Buah kecil berwarna merah dengan bintik biji di luar kulitnya adalah...",
+      "emojiCue": "🍓",
+      "options": ["Ceri", "Stroberi", "Apel", "Jeruk"],
+      "correctIndex": 1,
+      "funFact": "Stroberi adalah satu-satunya buah yang bijinya berada di bagian luar kulitnya!"
+    },
+    {
+      "id": 45,
+      "category": "FRUITS_VEGGIES",
+      "difficulty": "EASY",
+      "prompt": "Sayuran hijau yang bentuknya mirip pohon mini adalah...",
+      "emojiCue": "🥦",
+      "options": ["Brokoli", "Terong", "Jagung", "Bawang"],
+      "correctIndex": 0,
+      "funFact": "Brokoli adalah bunga sayuran yang kaya serat dan vitamin C agar tubuh tidak mudah sakit!"
+    },
+    {
+      "id": 46,
+      "category": "FRUITS_VEGGIES",
+      "difficulty": "CHALLENGING",
+      "prompt": "Buah jeruk dan lemon terkenal sangat kaya akan vitamin apa?",
+      "emojiCue": "🍊",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+      "correctIndex": 1,
+      "funFact": "Vitamin C membantu daya tahan tubuh melawan flu dan mempercepat penyembuhan luka!"
+    },
+    {
+      "id": 47,
+      "category": "FRUITS_VEGGIES",
+      "difficulty": "CHALLENGING",
+      "prompt": "Buah asal Indonesia yang dijuluki 'Raja Buah' dan berkulit duri tajam adalah...",
+      "emojiCue": "🍈",
+      "options": ["Rambutan", "Durian", "Salak", "Manggis"],
+      "correctIndex": 1,
+      "funFact": "Sementara durian dijuluki Raja Buah, manggis sering dijuluki sebagai Ratu Buah!"
+    },
+    {
+      "id": 48,
+      "category": "FRUITS_VEGGIES",
+      "difficulty": "CHALLENGING",
+      "prompt": "Bagian manakah dari tanaman kentang yang biasa kita masak dan makan?",
+      "emojiCue": "🥔",
+      "options": ["Bunganya", "Umbi batangnya", "Daunnya", "Kulit kayunya"],
+      "correctIndex": 1,
+      "funFact": "Kentang tumbuh di bawah tanah sebagai umbi yang menyimpan cadangan energi pati."
+    },
+    {
+      "id": 49,
+      "category": "FRUITS_VEGGIES",
+      "difficulty": "CHALLENGING",
+      "prompt": "Buah berkulit cokelat bersisik seperti ular asli Indonesia adalah...",
+      "emojiCue": "🌴",
+      "options": ["Salak", "Sawo", "Duku", "Lengkeng"],
+      "correctIndex": 0,
+      "funFact": "Di luar negeri salak dikenal sebagai 'snake fruit' karena pola sisik kulitnya!"
+    },
+    {
+      "id": 50,
+      "category": "FRUITS_VEGGIES",
+      "difficulty": "CHALLENGING",
+      "prompt": "Mengapa kita dianjurkan makan sayur hijau seperti bayam setiap hari?",
+      "emojiCue": "🥬",
+      "options": ["Mengandung zat besi & serat", "Agar cepat mengantuk", "Karena rasanya asin", "Membuat gigi berwarna hijau"],
+      "correctIndex": 0,
+      "funFact": "Zat besi dalam bayam membantu sel darah membawa oksigen ke seluruh tubuh dan otak!"
+    },
+    {
+      "id": 51,
+      "category": "INDONESIA",
+      "difficulty": "EASY",
+      "prompt": "Apa dua warna pada bendera kebangsaan Indonesia, Sang Saka Merah Putih?",
+      "emojiCue": "🇮🇩",
+      "options": ["Merah dan Kuning", "Merah dan Putih", "Biru dan Putih", "Hijau dan Putih"],
+      "correctIndex": 1,
+      "funFact": "Warna merah melambangkan keberanian, sedangkan warna putih melambangkan kesucian hati!"
+    },
+    {
+      "id": 52,
+      "category": "INDONESIA",
+      "difficulty": "EASY",
+      "prompt": "Apakah lagu kebangsaan negara Indonesia?",
+      "emojiCue": "🎶",
+      "options": ["Indonesia Raya", "Garuda Pancasila", "Halo-Halo Bandung", "Tanah Airku"],
+      "correctIndex": 0,
+      "funFact": "Lagu Indonesia Raya diciptakan oleh Wage Rudolf Supratman dan dikumandangkan pertama kali tahun 1928."
+    },
+    {
+      "id": 53,
+      "category": "INDONESIA",
+      "difficulty": "EASY",
+      "prompt": "Burung mitologi yang menjadi lambang negara Indonesia adalah...",
+      "emojiCue": "🦅",
+      "options": ["Burung Cenderawasih", "Burung Garuda", "Burung Elang", "Burung Merak"],
+      "correctIndex": 1,
+      "funFact": "Di dada Garuda Pancasila terdapat perisai berisi lima lambang sila Pancasila!"
+    },
+    {
+      "id": 54,
+      "category": "INDONESIA",
+      "difficulty": "EASY",
+      "prompt": "Alat musik tradisional dari Jawa Barat yang terbuat dari bambu dan dimainkan dengan digoyangkan adalah...",
+      "emojiCue": "🎋",
+      "options": ["Angklung", "Gamelan", "Sasando", "Tifa"],
+      "correctIndex": 0,
+      "funFact": "Angklung telah diakui oleh UNESCO sebagai warisan budaya dunia dari Indonesia!"
+    },
+    {
+      "id": 55,
+      "category": "INDONESIA",
+      "difficulty": "EASY",
+      "prompt": "Kain tradisional Indonesia yang dilukis dengan lilin malam dan canting adalah...",
+      "emojiCue": "👘",
+      "options": ["Batik", "Sutra", "Lurik", "Ulos"],
+      "correctIndex": 0,
+      "funFact": "Setiap tanggal 2 Oktober, kita merayakan Hari Batik Nasional!"
+    },
+    {
+      "id": 56,
+      "category": "INDONESIA",
+      "difficulty": "CHALLENGING",
+      "prompt": "Semboyan bangsa Indonesia yang berarti 'Berbeda-beda tetapi tetap satu jua' adalah...",
+      "emojiCue": "🤝",
+      "options": ["Tut Wuri Handayani", "Bhinneka Tunggal Ika", "Bersatu Kita Teguh", "Pancasila Sakti"],
+      "correctIndex": 1,
+      "funFact": "Semboyan Bhinneka Tunggal Ika tertulis pada pita putih yang dicengkeram oleh Burung Garuda."
+    },
+    {
+      "id": 57,
+      "category": "INDONESIA",
+      "difficulty": "CHALLENGING",
+      "prompt": "Rumah adat dengan atap melengkung runcing seperti tanduk kerbau dari Sumatera Barat disebut...",
+      "emojiCue": "🏠",
+      "options": ["Rumah Joglo", "Rumah Gadang", "Rumah Honai", "Rumah Tongkonan"],
+      "correctIndex": 1,
+      "funFact": "Rumah Gadang dibangun tanpa paku besi, melainkan menggunakan pasak kayu yang kuat!"
+    },
+    {
+      "id": 58,
+      "category": "INDONESIA",
+      "difficulty": "CHALLENGING",
+      "prompt": "Tanggal berapakah Hari Kemerdekaan Republik Indonesia diperingati setiap tahun?",
+      "emojiCue": "🎉",
+      "options": ["17 Agustus", "28 Oktober", "10 November", "1 Juni"],
+      "correctIndex": 0,
+      "funFact": "Proklamasi kemerdekaan Indonesia dibacakan oleh Ir. Soekarno pada 17 Agustus 1945."
+    },
+    {
+      "id": 59,
+      "category": "INDONESIA",
+      "difficulty": "CHALLENGING",
+      "prompt": "Candi Buddha terbesar di dunia yang terletak di Magelang, Jawa Tengah adalah...",
+      "emojiCue": "🛕",
+      "options": ["Candi Prambanan", "Candi Borobudur", "Candi Mendut", "Candi Muaro Jambi"],
+      "correctIndex": 1,
+      "funFact": "Candi Borobudur tersusun dari jutaan balok batu vulkanik dan memiliki 2.672 panel relief!"
+    },
+    {
+      "id": 60,
+      "category": "INDONESIA",
+      "difficulty": "CHALLENGING",
+      "prompt": "Burung indah dari Papua yang sering dijuluki sebagai 'Burung Surga' adalah...",
+      "emojiCue": "🪶",
+      "options": ["Jalak Bali", "Cenderawasih", "Maleo", "Rangkong"],
+      "correctIndex": 1,
+      "funFact": "Burung Cenderawasih jantan memiliki bulu ekor berwarna cerah memukau untuk menari!"
+    }
+  ]
+}
